@@ -22,6 +22,3 @@ This project develops a machine learning system to detect counterfeit banknotes 
 * **Model Persistence**: `joblib`
 * **Web Application**: `streamlit`
 
-## Project Structure
-
-Your project directory (`cmd-1`) should have a structure similar to this:
